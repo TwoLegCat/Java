@@ -24,6 +24,7 @@ public class Planer {
             }
         }
     }
+    //change planer
     void change(String d, int h, String subj) {
         int day = -1;
         switch(d) {
